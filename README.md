@@ -22,7 +22,6 @@ Install my-project with npm
 
 ```bash
 git clone <repository-url>
-cd <project-directory>
 ```
 
 
