@@ -1,4 +1,4 @@
-/* ServiceItem.css */
+
 
 .service-item {
     background-color: white;
@@ -28,7 +28,7 @@
   }
   
   .service-price {
-    color: #16a34a; /* Green color */
+    color: #16a34a; 
     font-weight: bold;
   }
   
@@ -39,7 +39,7 @@
   }
   
   .edit-button {
-    background-color: #f59e0b; /* Yellow */
+    background-color: #f59e0b; 
     color: white;
     padding: 8px 12px;
     border-radius: 8px;
@@ -49,11 +49,11 @@
   }
   
   .edit-button:hover {
-    background-color: #d97706; /* Darker yellow on hover */
+    background-color: #d97706; 
   }
   
   .delete-button {
-    background-color: #dc2626; /* Red */
+    background-color: #dc2626;
     color: white;
     padding: 8px 12px;
     border-radius: 8px;
@@ -63,6 +63,6 @@
   }
   
   .delete-button:hover {
-    background-color: #b91c1c; /* Darker red on hover */
+    background-color: #b91c1c; 
   }
   
