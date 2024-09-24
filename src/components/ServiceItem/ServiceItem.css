@@ -1,0 +1,68 @@
+/* ServiceItem.css */
+
+.service-item {
+    background-color: white;
+    padding: 24px;
+    margin-bottom: 24px;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+  }
+  
+  .service-content {
+    max-width: 70%;
+  }
+  
+  .service-title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1d4ed8; 
+    margin-bottom: 8px;
+  }
+  
+  .service-description {
+    color: #4b5563; 
+    margin-bottom: 16px;
+  }
+  
+  .service-price {
+    color: #16a34a; /* Green color */
+    font-weight: bold;
+  }
+  
+  .service-buttons {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+  }
+  
+  .edit-button {
+    background-color: #f59e0b; /* Yellow */
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .edit-button:hover {
+    background-color: #d97706; /* Darker yellow on hover */
+  }
+  
+  .delete-button {
+    background-color: #dc2626; /* Red */
+    color: white;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .delete-button:hover {
+    background-color: #b91c1c; /* Darker red on hover */
+  }
+  
